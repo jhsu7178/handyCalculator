@@ -1,0 +1,23 @@
+// CS Student's Handy Calculator
+// Binary Calculator Functions
+calculate binary + 10100 100000
+calculate binary - 1010110 1010
+calculate binary * 111101 101
+calculate binary / 10101111 11
+convert binary to decimal 10000101
+convert decimal to binary 40231
+// Hex Calculator Functions
+calculate hexadecimal + 1A02 F1B2
+calculate hexadecimal - FF12 1A2
+calculate hexadecimal * FF31 11
+calculate hexadecimal / C214 23
+convert hexadecimal to decimal FF19
+convert decimal to hexadecimal 29932
+// Data Unit Converter
+convert Data Unit to 399 Gigabytes
+// Download/Upload Time Calculator
+calculate download/upload time 739 Kilobytes 22 kbit/s
+// Website Bandwidth Calculator
+calculate website bandwidth 502 per hour 1000 megabytes 4
+// Hosting Bandwidth Converter
+convert monthly usage to bandwidth 420 terabytes 5 mbit/s

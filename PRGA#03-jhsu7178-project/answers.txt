@@ -1,0 +1,46 @@
+|calculate binary + 10100 100000|
+110100
+|calculate binary - 1010110 1010|
+1001100
+|calculate binary * 111101 101|
+100110001
+|calculate binary / 10101111 11|
+111010, Remainder: 1
+|convert binary to decimal 10000101|
+133
+|convert decimal to binary 40231|
+1001110100100111
+|calculate hexadecimal + 1A02 F1B2|
+10BB4
+|calculate hexadecimal - FF12 1A2|
+FD70
+|calculate hexadecimal * FF31 11|
+10F241
+|calculate hexadecimal / C214 23|
+58B, Remainder: 13
+|convert hexadecimal to decimal FF19|
+Invalid Input, Try again!
+|convert decimal to hexadecimal 29932|
+74EC
+|convert Data Unit to 399 Gigabytes|
+3.192E12 bits
+3.192E9 kilobits
+3192000.0 megabits
+3192.0 gigabits
+3.192 terabits
+3.99E11 Bytes
+3.99E8 Kilobytes
+399000.0 Megabytes
+0.399 Terabytes
+|calculate download/upload time 739 Kilobytes 22 kbit/s|
+~4 minutes 28 seconds
+|calculate website bandwidth 502 per hour 1000 megabytes 4|
+Actual bandwidth needed is 1115.5555555555557 Mbit/s
+or 366460.0 GB per month.
+With redundancy factor of 4, the bandwidth needed is
+4462.222222222223 Mbit/s or
+1465840.0 GB per month.
+|convert monthly usage to bandwidth 420 terabytes 5 mbit/s|
+420 terabytes per month
+is equivalent to
+1.2785388127853882E9 5 mbit/s

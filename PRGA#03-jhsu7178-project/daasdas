@@ -1,0 +1,12 @@
+|calculate binary + 10100 100000|
+110100
+|calculate binary - 1010110 1010|
+1001100
+|calculate binary * 111101 101|
+100110001
+|calculate binary / 10101111 11|
+111010, Remainder: 1
+|convert binary to decimal 10000101|
+133
+|convert decimal to binary 40231|
+1001110100100111
